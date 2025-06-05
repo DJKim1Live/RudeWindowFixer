@@ -1,4 +1,4 @@
-# RudeWindowFixer: fix Windows taskbar always-on-top issues
+# RudeWindowFixer: fix Windows taskbar not always-on-top issues
 *Brought to you by [Etienne Dechamps][] - [GitHub][]*
 
 **If you are looking for executables, see the [GitHub releases page][].**
